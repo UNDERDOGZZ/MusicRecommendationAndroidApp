@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034376315526",
+    "firebase_url": "https://musicrecommender-4868c.firebaseio.com",
+    "project_id": "musicrecommender-4868c",
+    "storage_bucket": "musicrecommender-4868c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034376315526:android:b6c520a9012917bd070707",
+        "android_client_info": {
+          "package_name": "pe.edu.musicrecommender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034376315526-d6gk9op7iedopeq1n16n4h0a1mcfad21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.musicrecommender",
+            "certificate_hash": "ce4b616d9a0ebcec859466d1fa8b63affdf39346"
+          }
+        },
+        {
+          "client_id": "1034376315526-kdcaa9bo3egslkeji96s5kh6n3bmu5ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivFjhkTYZde6ft_Le3pONXPb49A-P_O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034376315526-kdcaa9bo3egslkeji96s5kh6n3bmu5ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
